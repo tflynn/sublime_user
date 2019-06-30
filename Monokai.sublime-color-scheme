@@ -1,0 +1,13 @@
+{
+    "rules":
+    [
+        {
+            "name": "selection",
+            "scope": "source.json",
+            "selection_foreground":"palevioletred",
+            "foreground": "gold"
+        }
+
+    ]
+
+}
