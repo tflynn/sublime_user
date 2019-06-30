@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/MarkdownLight/MarkdownDark.tmTheme",
+	"detect_indentation": true,
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true
+}

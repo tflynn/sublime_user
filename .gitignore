@@ -1,0 +1,7 @@
+*.cache
+Package Control.last-run
+Package Control.sublime-settings
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle
+oscrypto-ca-bundle.crt
+SublimePrint.sublime-settings
